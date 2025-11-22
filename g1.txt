@@ -1,2 +1,4 @@
 g1 first file
 this is trail of git again
+
+line for gitignore so gitignore file is in .git folder
